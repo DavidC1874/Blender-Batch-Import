@@ -21,3 +21,7 @@ Batch import OBJ &amp; FBX files
 5. ![{F8B5DE09-689B-4308-8673-E4BAC6582394}](https://github.com/user-attachments/assets/82c35367-5e5c-4ff2-8f56-372d706213d8)
 
 # ⬆️*It will be under the 'Tool' menu on the side bar*
+
+
+# Demo on Youtube
+[![Watch on YouTube](https://img.youtube.com/vi/ENUDEeIlRww/0.jpg)](https://www.youtube.com/watch?v=ENUDEeIlRww)
